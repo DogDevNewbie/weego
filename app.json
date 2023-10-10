@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo_practice",
+    "slug": "expo_practice",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
